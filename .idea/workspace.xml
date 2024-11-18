@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c076cd5-aeb7-4d6e-a434-9f91774f896a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/nunes/karla/questao4/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nunes/karla/questao4/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nunes/karla/questao4/ContaPoupanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nunes/karla/questao4/Questao4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nunes/karla/questao4/Transacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nunes/karla/questao4/exceptions/SaldoInsuficienteException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nunes/karla/questao4/exceptions/ValorInvalidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nunes/karla/questao5/Analista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nunes/karla/questao5/Bonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nunes/karla/questao5/Empresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nunes/karla/questao5/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nunes/karla/questao5/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nunes/karla/questao5/Questao5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/nunes/karla/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nunes/karla/Main.java" afterDir="false" />
     </list>
@@ -85,7 +84,9 @@
       <workItem from="1731802862515" duration="918000" />
       <workItem from="1731804024006" duration="836000" />
       <workItem from="1731804882590" duration="11360000" />
-      <workItem from="1731859600787" duration="10464000" />
+      <workItem from="1731859600787" duration="12445000" />
+      <workItem from="1731925894184" duration="16000" />
+      <workItem from="1731936125254" duration="667000" />
     </task>
     <servers />
   </component>
